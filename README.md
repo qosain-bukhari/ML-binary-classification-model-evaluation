@@ -72,8 +72,8 @@ The dataset contains various features, including:
 ### 🔧 Tuned Hyperparameters:
 ```python
 RandomForestClassifier(
-    n_estimators=200,
-    max_depth=10,
+    n_estimators=300,
+    max_depth=15,
     min_samples_split=5,
     min_samples_leaf=2,
     random_state=42
@@ -102,7 +102,7 @@ RandomForestClassifier(
 | Precision | 0.84  |
 | Recall    | 0.78  |
 | F1 Score  | 0.81  |
-| ROC-AUC   | 0.91  |
+| ROC-AUC   | 0.96  |
 
 ---
 
