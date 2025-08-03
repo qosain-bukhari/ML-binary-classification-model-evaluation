@@ -28,8 +28,7 @@ ML-binary-classification-model-evaluation/
 ├── notebooks/                  # Jupyter notebooks for EDA and modeling
 ├── models/                     # Trained serialized models
 ├── results/                    # Graphs, reports, evaluation outputs
-├── utils/                      # Helper scripts (preprocessing, EDA, etc.)
-└── main.py                     # Main execution script (optional)
+
 
 ````
 
